@@ -1,3 +1,6 @@
+IndexOptions +FancyIndexing
+
+
 <IfModule mod_deflate.c>
 	AddOutputFilterByType DEFLATE application/javascript
 	AddOutputFilterByType DEFLATE application/x-javascript
